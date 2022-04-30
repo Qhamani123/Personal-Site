@@ -1,0 +1,54 @@
+body{
+	background-color: seagreen;
+	margin: 20 px;
+	color: rgba(250, 200, 240, 0.5);
+	font-family: sans-serif;
+	width: 100 px;
+	overflow: scroll;
+	padding: 10 px;
+	text-align: center;
+
+}
+
+.Heading1{background-color: rgb(20, 50, 10);
+          color: rgba(50, 60, 50, 0.6);
+          margin: 10 px;
+          font-family: sans-serif;
+          border: dashed;
+          border-width: 10 px;
+          border-color: black;
+          width:15 px;
+          padding: 10 px;
+      }
+
+.navbar{
+	width: 10 px;
+    background-color:seagreen;
+    color: rgb(33, 200, 100);
+    border-radius: 50%;
+    border-style: double;
+
+}
+
+.Logo{
+	width: 70 px;
+	height: 70 px;
+	clip-path: circle();
+	margin: 10 px;
+
+}
+
+.SUBSCRIBE{
+
+	color: rgba(50, 50, 100, 1.0);
+	width: 100 px;
+	font-family: serif;
+}
+
+.Container{
+	background-color: rgb(	240, 200, 200)	;
+	font-family: serif;
+	margin: 15 px;
+	border-color: black	;
+	border-style:double	;
+}
